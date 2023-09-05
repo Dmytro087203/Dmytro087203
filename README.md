@@ -29,7 +29,7 @@ In the past, I built CMS and fintech, healthcare, and dating websites using mode
 <li>JS frameworks: React/Next/Gatsby, Vue/Nuxt, Angular, Ember, Electron, Pine Script</li>
 <li>CMS: Ecommerce, BigCommerce, Wordpress, Shopify</li>
 <li>CSS frameworks: Bootstrap, TailwindCSS, and UnoCSS</li>
-<li>Backend frameworks: Node/Express/Nest, Python/Flask/Django, PHP/CI/Laravel, Java</li>
+<li>Backend frameworks: Node/Express/Nest, Python/Flask/Django, PHP/CI/Laravel, Java/Java Spring Boot, C/C++/C#, ASP.NET</li>
 <li>Cloud deployment: AWS, AWS Lambda, S3,Heroku,Vercel</li>
 <li>APIs: RESTful APIs, Google API, Google Maps, Google Analytics</li>
 <li>Database: MySQL, PostgreSQL, MongoDB, Firebase, GraphQL</li></ul>
