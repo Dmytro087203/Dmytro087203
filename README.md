@@ -39,16 +39,16 @@ As a blockchain specialist, I have participated in small and large blockchain pr
 And implemented natural language processing, computer vision, or recommendation systems using AI models and frameworks like TensorFlow, PyTorch, or Scikit-Learn.
 
 #### Blockchain Skills
-Ethereum, Solana, Terra, Binance Smart Chain, Polygon, and Polkadot
-Smart Contracts: Solidity and Rust
-Tools: Moralis, Candy Machine, Metaplex
-NFT Marketplace (sale, auction, airdrop, minting), P2E game
+<ul><li>Ethereum, Solana, Terra, Binance Smart Chain, Polygon, and Polkadot</li>
+<li>Smart Contracts: Solidity and Rust</li>
+<li>Tools: Moralis, Candy Machine, Metaplex</li>
+<li>NFT Marketplace (sale, auction, airdrop, minting), P2E game</li></ul>
 
 #### Artificial Intelligent Skills
-Open AI | ChatGPT
-Machine Learning and Deep Learning
-TensorFlow, Keras, PyTorch, and Scikit-learn
-Natural Language Processing, Computer Vision
+<ul><li>Open AI | ChatGPT</li>
+<li>Machine Learning and Deep Learning</li>
+<li>TensorFlow, Keras, PyTorch, and Scikit-learn</li>
+<li>Natural Language Processing, Computer Vision</li></ul>
 
 ### Why choose me?
 
