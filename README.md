@@ -24,7 +24,8 @@ Hi, I am Dmytro Shcherbyna. I am a Full Stack & Blockchain Developer.
 ☛ I have 5 years of full-stack development experience.
 In the past, I built CMS and fintech, healthcare, and dating websites using modern javascript frameworks, PHP frameworks, Wordpress, Node frameworks, Python frameworks, and CSS frameworks.
 
-<ul>Full-stack skills
+### Full-stack skills
+<ul>
 <li>JS frameworks: React/Next/Gatsby, Vue/Nuxt, Angular, Ember, Electron, Pine Script</li>
 <li>CMS: Ecommerce, BigCommerce, Wordpress, Shopify</li>
 <li>CSS frameworks: Bootstrap, TailwindCSS, and UnoCSS</li>
